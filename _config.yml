@@ -40,4 +40,4 @@ permalink: pretty
 half_side: right 
 
 # Full layout
-full_text_position: right # left, right or center
+full_text_position: left # left, right or center
