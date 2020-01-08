@@ -39,7 +39,7 @@ permalink: pretty
 #### LAYOUT OPTIONS #####
 
 # Half layout
-half_side: right
+half_side: left
 
 # Full layout
 full_text_position: right # left, right or center
