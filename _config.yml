@@ -1,11 +1,17 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Ko Ko Ye
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description: Ko Ko Ye, kokoye2007 Personal Blog
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: "I am currently a Freelancer (Net/Web). I have a strong interest in computers, especially Net and web programming. I Love it Ubuntu and other OSS, FLOSS, GNU, GPL, MIT, Apache etc.,
+
+I have played around with Linux since 2004, from Web Designer to Web Administrator (For LAMP) with Ubuntu being my main choice. I initially tried Fedora, but after trying Ubuntu 7.10 and later Ubuntu 8.04, I settled on Ubuntu as my favourite Linux distro. I will Promote About Linux and Ubuntu Distro since 2009 at Attendance 250 Person, They Like and Love Ubuntu. Currently I have Ubuntu 12.10 and 12.04 LTS installed on both of my computers, as well as a couple of virtual computers that are mainly used for web programming.
+
+Leader of Ubuntu Myanmar LoCo Team, mainly helping out with the Facebook groups and Ubuntu Myanmar LoCo Team Movement. and the biggest Barcamp in Barcamp Yangon 2010~2020 Organizer & Tech Support Leader (With Our LoCo Team Member).
+"
+
 
 # Half layout options
 half_side: left
@@ -14,13 +20,17 @@ half_image: woman-half.jpg
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
+    url: https://github.com/kokoye2007
   - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://facebook.com/kokoye2007
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/kokoye2007
   - platform: linkedin
-    url: brianmaierjr
+    url: https://www.linkedin.com/in/kokoye2007
+  - platform: ubuntu
+    url: https://wiki.ubuntu.com/kokoye2007
+  - platform: resume
+    url: https://kokoye2007.github.io/cv
 
 # General settings
 url: https://kokoye2007.github.io/kokoye2007/
