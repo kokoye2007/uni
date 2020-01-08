@@ -29,8 +29,8 @@ social:
     url: https://kokoye2007.github.io/cv
 
 # General settings
-url: https://kokoye2007.github.io/kokoye2007/
-#baseurl: "/kokoye2007"
+url: https://kokoye2007.github.io/kokoye2007
+baseurl: "/kokoye2007"
 markdown: kramdown
 sharing_image: share.jpg
 #google_analytics: "UA-58263416-1" # google analytics tracking
