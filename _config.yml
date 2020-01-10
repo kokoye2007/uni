@@ -23,6 +23,8 @@ social:
     url: https://www.linkedin.com/in/kokoye2007
   - platform: ubuntu
     url: https://wiki.ubuntu.com/kokoye2007
+  - platform: project
+    url: https://kokoye2007.github.io/project
   - platform: resume
     url: https://kokoye2007.github.io/cv
 
