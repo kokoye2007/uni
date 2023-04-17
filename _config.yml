@@ -15,15 +15,13 @@ content: "I have played around with Linux since 2004, from Web Designer to  Web 
 social:
   - platform: github
     url: https://github.com/kokoye2007
-  - platform: Mastodon
-    url: https://burma.social/@kokoye2007
   - platform: facebook
     url: https://facebook.com/kokoye2007
   - platform: twitter
     url: https://twitter.com/kokoye2007
   - platform: linkedin
     url: https://www.linkedin.com/in/kokoye2007
-  - platform: Mastodon
+  - platform: mastodon
     url: https://burma.social/@kokoye2007
   - platform: ubuntu
     url: https://wiki.ubuntu.com/kokoye2007
